@@ -1,0 +1,7 @@
+Here I am adding Java code for practice purposes
+
+public class MyFirstJavaProgram {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); // Prints the string to the console
+    }
+}
